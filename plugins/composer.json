@@ -1,0 +1,6 @@
+{
+    "require": {
+        "loadsys/cakephp_sitemap": "^1.0",
+        "cakedc/search": "^2.5"
+    }
+}

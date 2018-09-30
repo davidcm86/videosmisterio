@@ -1,0 +1,6 @@
+{
+    "require": {
+        "cakedc/search": "^2.5",
+        "wyrihaximus/minify-html": "^1.1"
+    }
+}
